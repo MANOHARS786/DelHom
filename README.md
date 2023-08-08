@@ -1,9 +1,3 @@
-# Food-App-Source-Code
-This is the Complete Free Source Code of Food App that we had made in our Youtube Channel Android Tutorials. 
-Make Sure you do necessary changes by watching the complete series.
+# Food-App
 
-
-Make Sure you Subscribe Your channel on Youtube Android Tutorials:
-https://www.youtube.com/channel/UCQCdBEmBo-wqiPW-qnq4bcQ/
-
-Thanks for Visiting...
+A food application for Android development involves creating an app that allows users to browse, order, and possibly even prepare food. It typically includes features like a user-friendly interface for exploring menus, searching for specific dishes, placing orders, making payments, and tracking delivery. The app might also include user accounts, reviews, ratings, and possibly integration with maps for delivery tracking. Designing an appealing UI.
